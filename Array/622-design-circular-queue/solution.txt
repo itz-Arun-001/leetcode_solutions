@@ -1,0 +1,66 @@
+class MyCircularQueue {
+public:
+vector<int>arr;
+int f;
+int r;
+    MyCircularQueue(int k) {
+        arr.resize(k);
+        f=-1;r=-1;
+
+        
+    }
+    
+    bool enQueue(int value) {
+        if(isFull()) return false;
+        else{
+            if(f==-1) f=0;
+            r=(r+1)%arr.size();
+            arr[r]=value;
+        }
+        return true;
+
+        
+    }
+    
+    bool deQueue() {
+        if(isEmpty()) return false;
+        else{
+            if(f==r) {
+                f=-1;
+                r=-1;
+            }
+            else f=(f+1)%arr.size();
+        }
+        return true;
+        
+    }
+    
+    int Front() {
+        return (isEmpty())?-1:arr[f];
+    }
+    
+    int Rear() {
+         return (isEmpty())?-1:arr[r];
+    }
+    
+    bool isEmpty() {
+        return f==-1;
+        
+    }
+    
+    bool isFull() {
+        return ((f==0&&r==arr.size()-1)||(f==r+1))?true:false;
+        
+    }
+};
+
+/**
+ * Your MyCircularQueue object will be instantiated and called as such:
+ * MyCircularQueue* obj = new MyCircularQueue(k);
+ * bool param_1 = obj->enQueue(value);
+ * bool param_2 = obj->deQueue();
+ * int param_3 = obj->Front();
+ * int param_4 = obj->Rear();
+ * bool param_5 = obj->isEmpty();
+ * bool param_6 = obj->isFull();
+ */

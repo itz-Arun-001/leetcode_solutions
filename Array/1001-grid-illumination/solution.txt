@@ -1,0 +1,45 @@
+class Solution {
+public:
+    vector<int> gridIllumination(int n, vector<vector<int>>& lamps,
+                                 vector<vector<int>>& queries) {
+        vector<int> ans(queries.size(), 0);
+        unordered_map<int, int> row;
+        unordered_map<int, int> col, diag, antid;
+        unordered_set<long long> st;
+        for (auto x : lamps) {
+            long long val = 1LL * x[0] * n + x[1];
+            if (st.count(val))
+                continue;
+            row[x[0]]++;
+            col[x[1]]++;
+            diag[x[0] - x[1]]++;
+            antid[x[0] + x[1]]++;
+            st.insert(val);
+        }
+        int a = 0 ;
+        for (auto x : queries) {
+            int r = x[0], c = x[1];
+            if (row[x[0]] != 0 || col[x[1]] != 0 || diag[x[0] - x[1]] != 0 ||
+                antid[x[0] + x[1]] != 0) {
+                ans[a++] = 1;
+            } else
+                ans[a++] = 0;
+            for (int dr = -1; dr <= 1; dr++) {
+                for (int dc = -1; dc <= 1; dc++) {
+                    int nr = r + dr, nc = c + dc;
+                    if (nr < 0 || nr >= n || nc < 0 || nc >= n)
+                        continue;
+                    long long val = 1LL * nr * n + nc;
+                    if (st.count(val)) {
+                        st.erase(val);
+                        row[nr]--;
+                        col[nc]--;
+                        diag[nr - nc]--;
+                        antid[nr + nc]--;
+                    }
+                }
+            }
+        }
+        return ans;
+    }
+};

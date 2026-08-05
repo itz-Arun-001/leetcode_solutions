@@ -1,0 +1,39 @@
+class Solution {
+public:
+    vector<vector<int>> spiralMatrixIII(int rows, int cols, int rStart, int cStart) {
+        vector<vector<int>>ans;
+        int len=1;
+        int r=rStart,c=cStart;
+        ans.push_back({rStart,cStart});
+        while(ans.size()<rows*cols)
+        {
+            for(int i=0;i<len;i++)
+            {
+                c++;
+                if(r>=0&&r<rows&&c>=0&&c<cols)
+                    ans.push_back({r,c});
+            }
+           for(int i=0;i<len;i++)
+            {
+                r++;
+                if(r>=0&&r<rows&&c>=0&&c<cols)
+                    ans.push_back({r,c});
+            }
+            len++;
+            for(int i=0;i<len;i++)
+            {
+                c--;
+                if(r>=0&&r<rows&&c>=0&&c<cols)
+                    ans.push_back({r,c});
+            }
+            for(int i=0;i<len;i++)
+            {
+                r--;
+                if(r>=0&&r<rows&&c>=0&&c<cols)
+                    ans.push_back({r,c});
+            }
+            len++;
+        }
+        return ans;
+    }
+};
