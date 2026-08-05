@@ -1,0 +1,39 @@
+/*class Solution {
+public:
+    void calculate(vector<int>& nums,int& a,int& f,int &l)
+    {
+        if(f==l) return;
+        int m=max(nums[f],nums[l]);
+       int idx = (nums[f] >= nums[l]) ? f : l;
+        if(idx==f) f++;
+        else l--;
+        a+=m;
+        //nums.erase(nums.begin()+idx);
+    }
+    bool predictTheWinner(vector<int>& nums) {
+        int p1=0,p2=0,f=0,l=nums.size()-1;
+        while(f<=l)
+        {
+          calculate(nums,p1,f,l);
+          calculate(nums,p2,f,l);
+
+        }
+        return p1>=p2;
+
+    }
+};*/
+
+class Solution {
+public:
+    int calculate(vector<int>& nums,int f,int l)
+    {
+        if(f==l)
+             return nums[f];
+        int left=nums[f]-calculate(nums,f+1,l);
+        int right=nums[l]-calculate(nums,f,l-1);
+        return max(left,right);
+    }
+    bool predictTheWinner(vector<int>& nums) {
+        return calculate(nums,0,nums.size()-1)>=0;
+    }
+};

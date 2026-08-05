@@ -1,0 +1,20 @@
+/*class Solution {
+public:
+    int calculate(vector<int>& nums,int f,int l)
+    {
+        if(f==l)
+             return nums[f];
+        int left=nums[f]-calculate(nums,f+1,l);
+        int right=nums[l]-calculate(nums,f,l-1);
+        return max(left,right);
+    }
+    bool stoneGame(vector<int>& nums) {
+     return calculate(nums,0,nums.size()-1)>=0;
+    }
+};*/
+class Solution {
+public:
+    bool stoneGame(vector<int>& nums) {
+     return true;
+    }
+};

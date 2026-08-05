@@ -1,0 +1,27 @@
+class Solution {
+public:
+    bool possible(vector<int>& nums, int t, long long m) {
+        long long  a = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] <= m)
+                a += m / nums[i];
+        }
+        return t <= a;
+    }
+    long long minimumTime(vector<int>& time, int totalTrips) {
+        long long mn = *min_element(time.begin(), time.end());
+        long long l = 1;
+        long long h = 1LL * mn * totalTrips;
+        long long ans=LLONG_MAX;
+
+        while (l <= h) {
+            long long m = l + (h - l) / 2;
+            if (possible(time, totalTrips, m)) {
+                ans = min(ans, m);
+                h = m - 1;
+            } else
+                l = m + 1;
+        }
+        return ans;
+    }
+};
