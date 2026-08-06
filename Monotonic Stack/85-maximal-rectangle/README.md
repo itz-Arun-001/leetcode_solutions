@@ -1,0 +1,50 @@
+# 85. Maximal Rectangle
+
+**Difficulty:** Hard
+**Link:** https://leetcode.com/problems/maximal-rectangle/
+
+## Description
+
+Given a rows x cols binary matrix filled with 0's and 1's, find the largest rectangle containing only 1's and return its area.
+
+Example 1:
+
+Input: matrix = [["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]]
+Output: 6
+Explanation: The maximal rectangle is shown in the above picture.
+
+Example 2:
+
+Input: matrix = [["0"]]
+Output: 0
+
+Example 3:
+
+Input: matrix = [["1"]]
+Output: 1
+
+Constraints:
+
+	  - rows == matrix.length
+
+	  - cols == matrix[i].length
+
+	  - 1 <= rows, cols <= 200
+
+	  - matrix[i][j] is '0' or '1'.
+
+## Example Test Cases (raw)
+
+```
+[["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]]
+[["0"]]
+[["1"]]
+```
+
+## Approach
+
+_Tags: Array, Dynamic Programming, Stack, Matrix, Monotonic Stack_
+
+_(Add your approach notes here -- LeetCode's public API doesn't
+expose editorial/approach write-ups, so this is left for you to
+fill in.)_
