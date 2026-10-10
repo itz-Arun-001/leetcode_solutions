@@ -7,7 +7,7 @@ Solved LeetCode problems for **[Arun_001_AU](https://leetcode.com/u/Arun_001_AU/
 ![Medium](https://img.shields.io/badge/Medium-314%2F2124-yellow)
 ![Hard](https://img.shields.io/badge/Hard-38%2F980-red)
 ![C++](https://img.shields.io/badge/C%2B%2B-469%20solved-00599C?logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-39%20solved-ED8B00?logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-40%20solved-ED8B00?logo=openjdk&logoColor=white)
 ![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1470-blue)
 ![Streak](https://img.shields.io/badge/Max%20Streak-102%20days-orange)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--11-lightgrey)
@@ -38,12 +38,12 @@ Solved LeetCode problems for **[Arun_001_AU](https://leetcode.com/u/Arun_001_AU/
 | 🟡 Medium                   | **314** / 2,124                                                      |
 | 🔴 Hard                     | **38** / 980                                                         |
 | 💻 C++                      | **469** problems                                                     |
-| ☕ Java                     | **39** problems                                                      |
-| 🔁 Solved in both languages | **15** problems                                                      |
+| ☕ Java                     | **40** problems                                                      |
+| 🔁 Solved in both languages | **16** problems                                                      |
 | 🏆 Contest rating           | **1,470** (2 contests attended)                                      |
 | 🌐 Site rank                | **214,181**                                                          |
 | 🎖️ Badges                  | **2** — most recent: _100 Days Badge 2026_                           |
-| 🔥 Activity (past year)     | **2,184** submissions · **181** active days · **102**-day max streak |
+| 🔥 Activity (past year)     | **2,185** submissions · **181** active days · **102**-day max streak |
 
 ---
 
