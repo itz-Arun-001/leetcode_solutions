@@ -10,7 +10,7 @@ Solved LeetCode problems for **[Arun_001_AU](https://leetcode.com/u/Arun_001_AU/
 ![Java](https://img.shields.io/badge/Java-40%20solved-ED8B00?logo=openjdk&logoColor=white)
 ![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1470-blue)
 ![Streak](https://img.shields.io/badge/Max%20Streak-145%20days-orange)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--22-lightgrey)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23-lightgrey)
 
 > **574 / 4,123** problems solved (8 currently attempting) · 99 topic folders in this repo · profile rank **164,942** · contest rating **1,470**.
 
@@ -43,7 +43,7 @@ Solved LeetCode problems for **[Arun_001_AU](https://leetcode.com/u/Arun_001_AU/
 | 🏆 Contest rating           | **1,470** (2 contests attended)                                      |
 | 🌐 Site rank                | **164,942**                                                          |
 | 🎖️ Badges                  | **3** — most recent: _200 Days Badge 2026_                           |
-| 🔥 Activity (past year)     | **2,329** submissions · **224** active days · **145**-day max streak |
+| 🔥 Activity (past year)     | **2,330** submissions · **224** active days · **145**-day max streak |
 
 ---
 
