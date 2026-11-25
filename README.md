@@ -2,17 +2,17 @@
 
 Solved LeetCode problems for **[Arun_001_AU](https://leetcode.com/u/Arun_001_AU/)**, organized by topic/pattern with per-problem write-ups, test cases, and working code.
 
-![Solutions](https://img.shields.io/badge/Solved-574%2F4123-brightgreen)
+![Solutions](https://img.shields.io/badge/Solved-574%2F4124-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-160%2F978-success)
 ![Medium](https://img.shields.io/badge/Medium-365%2F2152-yellow)
-![Hard](https://img.shields.io/badge/Hard-49%2F993-red)
+![Hard](https://img.shields.io/badge/Hard-49%2F994-red)
 ![C++](https://img.shields.io/badge/C%2B%2B-544%20solved-00599C?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-40%20solved-ED8B00?logo=openjdk&logoColor=white)
 ![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1470-blue)
-![Streak](https://img.shields.io/badge/Max%20Streak-145%20days-orange)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--23-lightgrey)
+![Streak](https://img.shields.io/badge/Max%20Streak-147%20days-orange)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--25-lightgrey)
 
-> **574 / 4,123** problems solved (8 currently attempting) · 99 topic folders in this repo · profile rank **164,942** · contest rating **1,470**.
+> **574 / 4,124** problems solved (8 currently attempting) · 99 topic folders in this repo · profile rank **163,826** · contest rating **1,470**.
 
 ---
 
@@ -33,24 +33,24 @@ Solved LeetCode problems for **[Arun_001_AU](https://leetcode.com/u/Arun_001_AU/
 
 | Metric                     | Value                                                                |
 | -------------------------- | -------------------------------------------------------------------- |
-| 🧠 Problems solved          | **574** / 4,123 (8 attempting)                                       |
+| 🧠 Problems solved          | **574** / 4,124 (8 attempting)                                       |
 | 🟢 Easy                     | **160** / 978                                                        |
 | 🟡 Medium                   | **365** / 2,152                                                      |
-| 🔴 Hard                     | **49** / 993                                                         |
+| 🔴 Hard                     | **49** / 994                                                         |
 | 💻 C++                      | **544** problems                                                     |
 | ☕ Java                     | **40** problems                                                      |
 | 🔁 Solved in both languages | **16** problems                                                      |
 | 🏆 Contest rating           | **1,470** (2 contests attended)                                      |
-| 🌐 Site rank                | **164,942**                                                          |
+| 🌐 Site rank                | **163,826**                                                          |
 | 🎖️ Badges                  | **3** — most recent: _200 Days Badge 2026_                           |
-| 🔥 Activity (past year)     | **2,330** submissions · **224** active days · **145**-day max streak |
+| 🔥 Activity (past year)     | **2,332** submissions · **226** active days · **147**-day max streak |
 
 ---
 
 ## ⚖️ Difficulty Split
 
 <p align="center">
-  <img src="https://quickchart.io/chart?w=420&h=320&c=%7B%22type%22%3A%20%22doughnut%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Easy%20%28160%2F978%29%22%2C%20%22Medium%20%28365%2F2152%29%22%2C%20%22Hard%20%2849%2F993%29%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B160%2C%20365%2C%2049%5D%2C%20%22backgroundColor%22%3A%20%5B%22%2336B37E%22%2C%20%22%23FFC400%22%2C%20%22%23FF5630%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Difficulty%20Split%20%28574%20Solved%29%22%7D%2C%20%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D%7D" alt="Difficulty split chart" />
+  <img src="https://quickchart.io/chart?w=420&h=320&c=%7B%22type%22%3A%20%22doughnut%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Easy%20%28160%2F978%29%22%2C%20%22Medium%20%28365%2F2152%29%22%2C%20%22Hard%20%2849%2F994%29%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B160%2C%20365%2C%2049%5D%2C%20%22backgroundColor%22%3A%20%5B%22%2336B37E%22%2C%20%22%23FFC400%22%2C%20%22%23FF5630%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Difficulty%20Split%20%28574%20Solved%29%22%7D%2C%20%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D%7D" alt="Difficulty split chart" />
 </p>
 
 ---
@@ -231,7 +231,7 @@ Every problem folder — e.g. [`Array/1-two-sum`](Array/1-two-sum) — follows t
 
 ## 📝 Notes
 
-- The **574 / 4,123** headline number and the difficulty split come straight from the LeetCode profile card, so they're the ground truth. The topic table and chart are counted from this repo's folders.
+- The **574 / 4,124** headline number and the difficulty split come straight from the LeetCode profile card, so they're the ground truth. The topic table and chart are counted from this repo's folders.
 - This repo's own folder count (588 unique problems) runs a little higher than 574. That's expected: a problem gets its own folder under **every** topic tag it carries (cross-listing), and a handful of older problems were re-numbered by LeetCode over time, so the same problem occasionally exists here under two different problem IDs.
 - `_uncategorized` holds problems that haven't been assigned a topic tag yet.
 - Charts are rendered live via [QuickChart](https://quickchart.io/) — if they don't load, GitHub may be rate-limiting the embed; refresh or view the image URL directly.
