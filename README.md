@@ -2,17 +2,17 @@
 
 Solved LeetCode problems for **[Arun_001_AU](https://leetcode.com/u/Arun_001_AU/)**, organized by topic/pattern with per-problem write-ups, test cases, and working code.
 
-![Solutions](https://img.shields.io/badge/Solved-574%2F4124-brightgreen)
+![Solutions](https://img.shields.io/badge/Solved-575%2F4124-brightgreen)
 ![Easy](https://img.shields.io/badge/Easy-160%2F978-success)
 ![Medium](https://img.shields.io/badge/Medium-365%2F2152-yellow)
-![Hard](https://img.shields.io/badge/Hard-49%2F994-red)
-![C++](https://img.shields.io/badge/C%2B%2B-544%20solved-00599C?logo=cplusplus&logoColor=white)
+![Hard](https://img.shields.io/badge/Hard-50%2F994-red)
+![C++](https://img.shields.io/badge/C%2B%2B-545%20solved-00599C?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-40%20solved-ED8B00?logo=openjdk&logoColor=white)
 ![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1470-blue)
-![Streak](https://img.shields.io/badge/Max%20Streak-147%20days-orange)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--25-lightgrey)
+![Streak](https://img.shields.io/badge/Max%20Streak-148%20days-orange)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--26-lightgrey)
 
-> **574 / 4,124** problems solved (8 currently attempting) · 99 topic folders in this repo · profile rank **163,826** · contest rating **1,470**.
+> **575 / 4,124** problems solved (8 currently attempting) · 100 topic folders in this repo · profile rank **163,893** · contest rating **1,470**.
 
 ---
 
@@ -33,24 +33,24 @@ Solved LeetCode problems for **[Arun_001_AU](https://leetcode.com/u/Arun_001_AU/
 
 | Metric                     | Value                                                                |
 | -------------------------- | -------------------------------------------------------------------- |
-| 🧠 Problems solved          | **574** / 4,124 (8 attempting)                                       |
+| 🧠 Problems solved          | **575** / 4,124 (8 attempting)                                       |
 | 🟢 Easy                     | **160** / 978                                                        |
 | 🟡 Medium                   | **365** / 2,152                                                      |
-| 🔴 Hard                     | **49** / 994                                                         |
-| 💻 C++                      | **544** problems                                                     |
+| 🔴 Hard                     | **50** / 994                                                         |
+| 💻 C++                      | **545** problems                                                     |
 | ☕ Java                     | **40** problems                                                      |
 | 🔁 Solved in both languages | **16** problems                                                      |
 | 🏆 Contest rating           | **1,470** (2 contests attended)                                      |
-| 🌐 Site rank                | **163,826**                                                          |
+| 🌐 Site rank                | **163,893**                                                          |
 | 🎖️ Badges                  | **3** — most recent: _200 Days Badge 2026_                           |
-| 🔥 Activity (past year)     | **2,332** submissions · **226** active days · **147**-day max streak |
+| 🔥 Activity (past year)     | **2,337** submissions · **227** active days · **148**-day max streak |
 
 ---
 
 ## ⚖️ Difficulty Split
 
 <p align="center">
-  <img src="https://quickchart.io/chart?w=420&h=320&c=%7B%22type%22%3A%20%22doughnut%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Easy%20%28160%2F978%29%22%2C%20%22Medium%20%28365%2F2152%29%22%2C%20%22Hard%20%2849%2F994%29%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B160%2C%20365%2C%2049%5D%2C%20%22backgroundColor%22%3A%20%5B%22%2336B37E%22%2C%20%22%23FFC400%22%2C%20%22%23FF5630%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Difficulty%20Split%20%28574%20Solved%29%22%7D%2C%20%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D%7D" alt="Difficulty split chart" />
+  <img src="https://quickchart.io/chart?w=420&h=320&c=%7B%22type%22%3A%20%22doughnut%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Easy%20%28160%2F978%29%22%2C%20%22Medium%20%28365%2F2152%29%22%2C%20%22Hard%20%2850%2F994%29%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B160%2C%20365%2C%2050%5D%2C%20%22backgroundColor%22%3A%20%5B%22%2336B37E%22%2C%20%22%23FFC400%22%2C%20%22%23FF5630%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Difficulty%20Split%20%28575%20Solved%29%22%7D%2C%20%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%7D%7D%7D%7D" alt="Difficulty split chart" />
 </p>
 
 ---
@@ -59,21 +59,21 @@ Solved LeetCode problems for **[Arun_001_AU](https://leetcode.com/u/Arun_001_AU/
 
 Top 20 topics by problems solved (counted from this repo's topic folders):
 
-![Topic chart](https://quickchart.io/chart?w=900&h=500&c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Array%22%2C%20%22Hash%20Table%22%2C%20%22String%22%2C%20%22Dynamic%20Programming%22%2C%20%22Math%22%2C%20%22Sorting%22%2C%20%22Depth-First%20Search%22%2C%20%22Matrix%22%2C%20%22Bit%20Manipulation%22%2C%20%22Breadth-First%20Search%22%2C%20%22Greedy%22%2C%20%22Backtracking%22%2C%20%22Binary%20Search%22%2C%20%22Sliding%20Window%22%2C%20%22Two%20Pointers%22%2C%20%22Stack%22%2C%20%22Prefix%20Sum%22%2C%20%22Tree%22%2C%20%22Graph%20Theory%22%2C%20%22Simulation%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Problems%20Solved%22%2C%20%22data%22%3A%20%5B351%2C%20114%2C%20114%2C%2091%2C%2076%2C%2073%2C%2065%2C%2058%2C%2057%2C%2054%2C%2054%2C%2051%2C%2051%2C%2050%2C%2047%2C%2045%2C%2040%2C%2037%2C%2036%2C%2036%5D%2C%20%22backgroundColor%22%3A%20%5B%22%234C9AFF%22%2C%20%22%2379E2F2%22%2C%20%22%2357D9A3%22%2C%20%22%23FFC400%22%2C%20%22%23FF991F%22%2C%20%22%23FF5630%22%2C%20%22%236554C0%22%2C%20%22%2300B8D9%22%2C%20%22%2336B37E%22%2C%20%22%238777D9%22%2C%20%22%234C9AFF%22%2C%20%22%2379E2F2%22%2C%20%22%2357D9A3%22%2C%20%22%23FFC400%22%2C%20%22%23FF991F%22%2C%20%22%23FF5630%22%2C%20%22%236554C0%22%2C%20%22%2300B8D9%22%2C%20%22%2336B37E%22%2C%20%22%238777D9%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Top%2020%20Topics%20by%20Problems%20Solved%22%7D%7D%2C%20%22scales%22%3A%20%7B%22xAxes%22%3A%20%5B%7B%22ticks%22%3A%20%7B%22autoSkip%22%3A%20false%2C%20%22fontSize%22%3A%209%7D%7D%5D%7D%7D%7D)
+![Topic chart](https://quickchart.io/chart?w=900&h=500&c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Array%22%2C%20%22Hash%20Table%22%2C%20%22String%22%2C%20%22Dynamic%20Programming%22%2C%20%22Math%22%2C%20%22Sorting%22%2C%20%22Depth-First%20Search%22%2C%20%22Matrix%22%2C%20%22Bit%20Manipulation%22%2C%20%22Breadth-First%20Search%22%2C%20%22Greedy%22%2C%20%22Binary%20Search%22%2C%20%22Backtracking%22%2C%20%22Sliding%20Window%22%2C%20%22Two%20Pointers%22%2C%20%22Stack%22%2C%20%22Prefix%20Sum%22%2C%20%22Tree%22%2C%20%22Graph%20Theory%22%2C%20%22Simulation%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Problems%20Solved%22%2C%20%22data%22%3A%20%5B352%2C%20115%2C%20114%2C%2091%2C%2076%2C%2073%2C%2065%2C%2058%2C%2057%2C%2054%2C%2054%2C%2052%2C%2051%2C%2050%2C%2047%2C%2045%2C%2040%2C%2037%2C%2036%2C%2036%5D%2C%20%22backgroundColor%22%3A%20%5B%22%234C9AFF%22%2C%20%22%2379E2F2%22%2C%20%22%2357D9A3%22%2C%20%22%23FFC400%22%2C%20%22%23FF991F%22%2C%20%22%23FF5630%22%2C%20%22%236554C0%22%2C%20%22%2300B8D9%22%2C%20%22%2336B37E%22%2C%20%22%238777D9%22%2C%20%22%234C9AFF%22%2C%20%22%2379E2F2%22%2C%20%22%2357D9A3%22%2C%20%22%23FFC400%22%2C%20%22%23FF991F%22%2C%20%22%23FF5630%22%2C%20%22%236554C0%22%2C%20%22%2300B8D9%22%2C%20%22%2336B37E%22%2C%20%22%238777D9%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Top%2020%20Topics%20by%20Problems%20Solved%22%7D%7D%2C%20%22scales%22%3A%20%7B%22xAxes%22%3A%20%5B%7B%22ticks%22%3A%20%7B%22autoSkip%22%3A%20false%2C%20%22fontSize%22%3A%209%7D%7D%5D%7D%7D%7D)
 
 ---
 
 ## 🗂 Topics at a Glance
 
 <details>
-<summary><strong>Click to expand all 99 topic folders in this repo</strong></summary>
+<summary><strong>Click to expand all 100 topic folders in this repo</strong></summary>
 
 Counts are taken from this repo's own topic folders (the LeetCode profile card truncates its skill list). A problem tagged with several topics is counted under each.
 
 | Topic                                                                            | Solved  | Progress               |
 | -------------------------------------------------------------------------------- | ------- | ---------------------- |
-| 🧮 [Array](Array)                                                                 | **351** | `████████████████████` |
-| 🔑 [Hash Table](Hash%20Table)                                                     | **114** | `██████░░░░░░░░░░░░░░` |
+| 🧮 [Array](Array)                                                                 | **352** | `████████████████████` |
+| 🔑 [Hash Table](Hash%20Table)                                                     | **115** | `███████░░░░░░░░░░░░░` |
 | 🔤 [String](String)                                                               | **114** | `██████░░░░░░░░░░░░░░` |
 | 🧠 [Dynamic Programming](Dynamic%20Programming)                                   | **91**  | `█████░░░░░░░░░░░░░░░` |
 | ➗ [Math](Math)                                                                   | **76**  | `████░░░░░░░░░░░░░░░░` |
@@ -83,8 +83,8 @@ Counts are taken from this repo's own topic folders (the LeetCode profile card t
 | 🧩 [Bit Manipulation](Bit%20Manipulation)                                         | **57**  | `███░░░░░░░░░░░░░░░░░` |
 | 🌊 [Breadth-First Search](Breadth-First%20Search)                                 | **54**  | `███░░░░░░░░░░░░░░░░░` |
 | 🪙 [Greedy](Greedy)                                                               | **54**  | `███░░░░░░░░░░░░░░░░░` |
+| 🔍 [Binary Search](Binary%20Search)                                               | **52**  | `███░░░░░░░░░░░░░░░░░` |
 | 🔙 [Backtracking](Backtracking)                                                   | **51**  | `███░░░░░░░░░░░░░░░░░` |
-| 🔍 [Binary Search](Binary%20Search)                                               | **51**  | `███░░░░░░░░░░░░░░░░░` |
 | 🪟 [Sliding Window](Sliding%20Window)                                             | **50**  | `███░░░░░░░░░░░░░░░░░` |
 | 👉 [Two Pointers](Two%20Pointers)                                                 | **47**  | `███░░░░░░░░░░░░░░░░░` |
 | 📚 [Stack](Stack)                                                                 | **45**  | `███░░░░░░░░░░░░░░░░░` |
@@ -133,10 +133,12 @@ Counts are taken from this repo's own topic folders (the LeetCode profile card t
 | 🛣️ [Eulerian Path](Eulerian%20Path)                                              | **2**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 🚰 [Flow Network](Flow%20Network)                                                 | **2**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 📐 [Geometry](Geometry)                                                           | **2**   | `█░░░░░░░░░░░░░░░░░░░` |
+| 🔑 [Hash Function](Hash%20Function)                                               | **2**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 📌 [Kosaraju's Algorithm](Kosaraju%27s%20Algorithm)                               | **2**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 📌 [Longest Increasing Subsequence](Longest%20Increasing%20Subsequence)           | **2**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 🔀 [Merge Sort](Merge%20Sort)                                                     | **2**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 📌 [Ordered Set](Ordered%20Set)                                                   | **2**   | `█░░░░░░░░░░░░░░░░░░░` |
+| 📌 [Rolling Hash](Rolling%20Hash)                                                 | **2**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 🌳 [Segment Tree](Segment%20Tree)                                                 | **2**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 🌉 [Semi-Eulerian Graph](Semi-Eulerian%20Graph)                                   | **2**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 📌 [Tarjan's SCC Algorithm](Tarjan%27s%20SCC%20Algorithm)                         | **2**   | `█░░░░░░░░░░░░░░░░░░░` |
@@ -153,7 +155,6 @@ Counts are taken from this repo's own topic folders (the LeetCode profile card t
 | 🔗 [Doubly-Linked List](Doubly-Linked%20List)                                     | **1**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 📌 [Floyd–Warshall Algorithm](Floyd%E2%80%93Warshall%20Algorithm)                 | **1**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 🛤️ [Hamiltonian Path](Hamiltonian%20Path)                                        | **1**   | `█░░░░░░░░░░░░░░░░░░░` |
-| 🔑 [Hash Function](Hash%20Function)                                               | **1**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 📌 [Heuristic Search](Heuristic%20Search)                                         | **1**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 🇭🇺 [Hungarian Algorithm](Hungarian%20Algorithm)                                  | **1**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 🎲 [Impartial Game](Impartial%20Game)                                             | **1**   | `█░░░░░░░░░░░░░░░░░░░` |
@@ -169,8 +170,8 @@ Counts are taken from this repo's own topic folders (the LeetCode profile card t
 | 🤝 [Perfect Matching](Perfect%20Matching)                                         | **1**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 📌 [Prim's Algorithm](Prim%27s%20Algorithm)                                       | **1**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 🔢 [Primality Test](Primality%20Test)                                             | **1**   | `█░░░░░░░░░░░░░░░░░░░` |
-| 📌 [Rolling Hash](Rolling%20Hash)                                                 | **1**   | `█░░░░░░░░░░░░░░░░░░░` |
 | 🚰 [Successive Shortest Path Algorithm](Successive%20Shortest%20Path%20Algorithm) | **1**   | `█░░░░░░░░░░░░░░░░░░░` |
+| 📌 [Suffix Array](Suffix%20Array)                                                 | **1**   | `█░░░░░░░░░░░░░░░░░░░` |
 
 </details>
 
@@ -231,8 +232,8 @@ Every problem folder — e.g. [`Array/1-two-sum`](Array/1-two-sum) — follows t
 
 ## 📝 Notes
 
-- The **574 / 4,124** headline number and the difficulty split come straight from the LeetCode profile card, so they're the ground truth. The topic table and chart are counted from this repo's folders.
-- This repo's own folder count (588 unique problems) runs a little higher than 574. That's expected: a problem gets its own folder under **every** topic tag it carries (cross-listing), and a handful of older problems were re-numbered by LeetCode over time, so the same problem occasionally exists here under two different problem IDs.
+- The **575 / 4,124** headline number and the difficulty split come straight from the LeetCode profile card, so they're the ground truth. The topic table and chart are counted from this repo's folders.
+- This repo's own folder count (589 unique problems) runs a little higher than 575. That's expected: a problem gets its own folder under **every** topic tag it carries (cross-listing), and a handful of older problems were re-numbered by LeetCode over time, so the same problem occasionally exists here under two different problem IDs.
 - `_uncategorized` holds problems that haven't been assigned a topic tag yet.
 - Charts are rendered live via [QuickChart](https://quickchart.io/) — if they don't load, GitHub may be rate-limiting the embed; refresh or view the image URL directly.
 - Contributions/PRs aren't expected (this is a personal solutions log), but feel free to fork it for your own practice tracker.
